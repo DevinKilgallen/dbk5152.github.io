@@ -1,1 +1,17 @@
-# dbk5152.github.io
+<html>
+  <head>
+    <!-- This shows up in the window title bar -->
+    <title>My GitHub Pages Site</title>
+  </head>
+  <body>
+    <!-- Everything "inside" the body tag shows up in the browser window -->
+    <h1>My schedule for Falls 2025</h1>
+    <ol>
+      <ul>IGME 105</ul>
+      <ul>IGME 110</ul>
+      <ul>Intro To Environmental</ul>
+      <ul>Intro To Psycology</ul>
+      <ul>Descrete Math</ul>
+    </ol>
+  </body>
+</html>
